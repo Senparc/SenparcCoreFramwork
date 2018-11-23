@@ -1,2 +1,2 @@
 # SenparcCoreFramwork
-.NET peoject foundation framework, including b
+.NET peoject foundation framework
